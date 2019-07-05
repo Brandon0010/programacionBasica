@@ -4,6 +4,7 @@
 ### Tutorial de Python.
 
 ###Operadores
+
 TIPOS DE DATOS BASICOS
 
 En python los tipos de datos básicos se dividen en, números, como pueden ser 3 (entero ó integer) 1.75, (punto flotante ó float) 7+5j (complejos ó complex).
