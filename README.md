@@ -9,7 +9,7 @@ TIPOS DE DATOS BASICOS
 
 En python los tipos de datos básicos se dividen en, números, como pueden ser 3 (entero ó integer) 1.75, (punto flotante ó float) 7+5j (complejos ó complex).
 
-Para poder conocer el tipo de dato de una variable susaremos la instrucción "type()".
+Para poder conocer el tipo de dato de una variable usaremos la instrucción "type()".
 
 Otro tipo de dato basico en PYTHON son las cadenas de texto, por ejemplo, "Hola Mundo" (cadena de texto o string ó 'Hola Mundo' ó "Jenny's dog").
 
@@ -203,7 +203,7 @@ Por ejemplo:
     vocho.conducir()
 
 #UNIDAD 1
-
+----
 ###Introducción a los ejercicios de programación
 
 Los ejercicios estas diseñados para desarrollar en el alumno(a) la oportunidad de practicar problemas pequeños en pasos secuenciales. Adicionalmente se volverá familiar la sintaxis de Python, desarrollando los siguientes temas: 
@@ -355,7 +355,7 @@ Escriba un programa que lea dos números enteros y los guarde en las variables �
 >Comando log10 del modulo math
 
 #UNIDAD 2
-
+----
 ##Control de Flujo
 
 ###Sentencias condicionales
